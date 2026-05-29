@@ -1,47 +1,30 @@
-# Call Center Performance Analysis Dashboard
+# Call Center Performance Dashboard
 
 ## Project Overview
+Interactive Excel dashboard for analyzing call center performance using Pivot Tables, Pivot Charts, KPIs, and Slicers.
 
-This project is an Excel-based Call Center Performance Dashboard created to analyze employee productivity, attendance, sales performance, collection performance, and operational efficiency.
+## KPIs
+- Total Employees
+- Total Sales
+- Total Collection
+- Average Actual Calls
+- Attendance %
+- Excellent Performers
+
+## Analysis Included
+- Team Sales & Collection
+- Manager Performance
+- Shift Performance
+- Attendance Analysis
+- Lead Source Analysis
+- Efficiency Distribution
 
 ## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Design
 
-* Microsoft Excel
-* Pivot Tables
-* Power Query
-* Conditional Formatting
-* KPI Reporting
-* Data Cleaning
-
-## Key Features
-
-* Attendance Analysis
-* Login Hours Tracking
-* Target vs Actual Calls Analysis
-* Sales & Collection Performance
-* Employee Efficiency Analysis
-* High Risk Employee Identification
-* Shift-wise Performance Analysis
-
-## KPIs Used
-
-* Total Employees
-* Average Login Hours
-* Attendance Percentage
-* Average Actual Calls
-* Sales Amount
-* Collection Amount
-* Productivity Score
-
-## Business Insights
-
-* Identified high-performing shifts
-* Analyzed low productivity employees
-* Compared manager-wise performance
-* Tracked attendance and absenteeism trends
-* Evaluated operational efficiency
-
-## Project Outcome
-
-This dashboard helps management monitor call center operations, employee productivity, and overall business performance using data-driven insights.
-
+## Author
+Rishabh Raj
